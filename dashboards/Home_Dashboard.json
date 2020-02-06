@@ -470,8 +470,8 @@
                 "full": false,
                 "lineColor": "rgb(31, 120, 193)",
                 "show": true,
-                "ymax": null,
-                "ymin": null
+                "ymax": 100,
+                "ymin": 0
             },
             "tableColumn": "",
             "targets": [
@@ -560,8 +560,8 @@
                 "full": false,
                 "lineColor": "rgb(31, 120, 193)",
                 "show": true,
-                "ymax": null,
-                "ymin": null
+                "ymax": 100,
+                "ymin": 0
             },
             "tableColumn": "",
             "targets": [
@@ -1558,8 +1558,8 @@
                 "full": false,
                 "lineColor": "rgb(31, 120, 193)",
                 "show": true,
-                "ymax": null,
-                "ymin": null
+                "ymax": 100,
+                "ymin": 0
             },
             "tableColumn": "",
             "targets": [
@@ -1648,8 +1648,8 @@
                 "full": false,
                 "lineColor": "rgb(31, 120, 193)",
                 "show": true,
-                "ymax": null,
-                "ymin": null
+                "ymax": 100,
+                "ymin": 0
             },
             "tableColumn": "",
             "targets": [
